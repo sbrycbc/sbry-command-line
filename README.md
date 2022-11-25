@@ -9,6 +9,8 @@
             - git push
             - git clone
             - git branch <your name>
-            - git checkout <your name>
+            - git checkout <your name> 
+            - git switch -c
+
 
 

@@ -11,6 +11,9 @@
             - git branch <your name>
             - git checkout <your name> 
             - git switch -c
+            - git config user.name
+            - git config user.email
+            
 
 
 
